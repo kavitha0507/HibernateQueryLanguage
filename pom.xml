@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.kavi</groupId>
-    <artifactId>HibernateQueryLanguage</artifactId>
+    <artifactId>QueryLanguageHyberante</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
